@@ -184,6 +184,7 @@ configs:
 
     #accounts.<new-username>: apiKey, login
     accounts.mike: apiKey, login
+    accounts.admin: apikey, login
 
     # Dex configuration
     # dex.config: |
