@@ -181,6 +181,8 @@ configs:
 
     # -- Timeout to refresh application data as well as target manifests cache
     timeout.hard.reconciliation: 0s
+    # adds api to admin user
+    accounts.admin: apiKey
 
     # Dex configuration
     # dex.config: |
