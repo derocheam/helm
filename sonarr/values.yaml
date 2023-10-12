@@ -98,7 +98,7 @@ volumeMounts:
 - name: config
   mountPath: /config
 - name: nfs-vol
-  mountPath: '/data/TV Shows'
+  mountPath: '/data/TV Showss'
 # - name: foo
 #   mountPath: "/etc/foo"
 #   readOnly: true
