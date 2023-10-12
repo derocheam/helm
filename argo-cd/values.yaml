@@ -182,6 +182,9 @@ configs:
     # -- Timeout to refresh application data as well as target manifests cache
     timeout.hard.reconciliation: 0s
 
+    #accounts.<new-username>: apiKey, login
+    accounts.mike: apiKey, login
+
     # Dex configuration
     # dex.config: |
     #   connectors:
