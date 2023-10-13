@@ -29,6 +29,7 @@ podAnnotations: {}
 podLabels: 
   test: mike
   number: two
+  three: three
 
 podSecurityContext: {}
   # fsGroup: 2000
