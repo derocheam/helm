@@ -30,6 +30,7 @@ podLabels:
   test: mike
   number: two
   three: three
+  four: four
 
 podSecurityContext: {}
   # fsGroup: 2000
